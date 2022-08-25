@@ -1,4 +1,4 @@
 # Primeiro-Site-Pizza-Dev1
 
-Site que fiz para testar habilidades em HTML e CSS, há um algorítmo simples e bem pequeno de JavaScript também..
+Primeiro site que "fiz" na vida, ta bem zoado mas deu pra pegar algumas noções basicas de html e css.
 https://felipe-exec.github.io/Primeiro-Site-Pizza-Dev1/
