@@ -5,19 +5,12 @@
   box-sizing: border-box;
 }
 
-a {
-  text-decoration: none;
-}
-
-ul {
-  list-style: none;
-}
-
 :root {
   --header-height: 4.5rem;
 
   /* colors */
-  --hue: 159;
+  /* https://www.w3schools.com/colors/colors_picker.asp */
+  --hue: 210;
   /* HSL color mode */
   --base-color: hsl(var(--hue) 36% 57%);
   --base-color-second: hsl(var(--hue) 65% 88%);
@@ -33,6 +26,14 @@ ul {
 
   --title-font: 'Poppins', sans-serif;
   --body-font: 'DM Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
 }
 
 #header {
@@ -234,7 +235,7 @@ img {
 
 #home .image {
   margin-left: 1.5rem;
-  margin-left: 1.5rem;
+  margin-right: 1.5rem;
   position: relative;
 }
 
@@ -263,7 +264,7 @@ img {
 
 #about .image {
   margin-left: 1.5rem;
-  margin-left: 1.5rem;
+  margin-right: 1.5rem;
   position: relative;
 }
 
